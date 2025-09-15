@@ -36,6 +36,32 @@
 
 ---
 
+### 🚀 Projects
+
+#### 📌 Portfolio Website
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="600" alt="Portfolio Website Screenshot"/>
+</p>
+🔗 [Live Demo](YOUR_PROJECT_LINK) | 💻 [Source Code](https://github.com/islambasha/Portfolio-website-)
+
+---
+
+#### 📊 Adidas Sales Dashboard (Power BI)
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="600" alt="Adidas Dashboard"/>
+</p>
+🔗 [Project Report](YOUR_PROJECT_LINK)
+
+---
+
+#### 🛒 BYhub E-commerce Website
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="600" alt="BYhub E-commerce"/>
+</p>
+🔗 [Live Demo](YOUR_PROJECT_LINK) | 💻 [Source Code](YOUR_REPO_LINK)
+
+---
+
 ### 📌 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambasha&layout=compact&theme=radical" alt="top languages" />
