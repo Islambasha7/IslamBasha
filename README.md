@@ -1,113 +1,75 @@
-<h1 align="center">Hi 👋, I'm Islam Basha</h1>
-<h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | 🚀 Tech Enthusiast</h3>
+# Islam Basha
 
+**Full Stack Developer (MERN)**  
+Building reliable, maintainable web applications with a focus on clean architectures and practical UX.
+
+---
+
+## About
+- 🎓 B.Tech in Electrical & Electronics Engineering — RGUKT RK Valley (Top 10%)  
+- 🔭 Currently building full stack projects using React, Node.js, and MongoDB  
+- 🌱 Actively learning advanced system design and performance optimization  
+- 🏆 Certifications: Prompt Engineering (Superhuman.ai), Power BI / Tableau / Excel (BE10X)
+
+---
+
+## Core Skills
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)  
+- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Database:** MongoDB, SQL (basics)  
+- **Dev tools & Workflow:** Git, GitHub, npm, Docker (basic), CI/CD basics, unit testing fundamentals  
+- **Other:** Responsive design, component-driven development, performance tuning
+
+---
+
+## Selected Projects
+- **Personal Portfolio Website** — Interactive 3D portfolio with tilt effects and modern animations.  
+  *Highlights:* Accessible, responsive, polished animations, deployable via static hosting.
+
+- **Squid Game Themed Web Portal** — Themed site with homepage, interactive quiz, animated layout, and sound effects.  
+  *Highlights:* Modular components, quiz game logic, media integration, progressive enhancement.
+
+- **Adidas Sales Dashboard (Power BI)** — Sales performance visualizations and KPIs for different regions. *(Project demonstrates end-to-end delivery: data → visualization → insights.)*
+
+- **Blinkit Delivery Analytics (Power BI)** — Dashboard to monitor delivery KPIs and operational metrics. *(Focus on clear KPIs and actionable views.)*
+
+- **IoT Projects (Arduino)** — Smart Speed Breakers & Automated Street Lighting.  
+  *Highlights:* Embedded prototyping, sensor integration, basic control logic.
+
+---
+
+## Experience & Education
+- **B.Tech — Electrical & Electronics Engineering**, RGUKT RK Valley  
+- Notable: Top 10% of the class; hands-on experience with embedded systems and web projects.
+
+---
+
+## What I’m Working On
+- Building modular, production-ready MERN applications.
+- Improving knowledge in system design and backend scaling patterns.
+
+---
+
+## Open To
+- Full-time roles in Web Development / Backend Engineering  
+- Collaboration on web apps, small product teams, or startup MVPs
+
+---
+
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/islam-basha  
+- **Email:** islambasha5229@gmail.com  
+- **GitHub:** https://github.com/Islambasha7
+
+---
+
+<!-- Optional: enable GitHub stats by replacing <your-github-username> -->
+<!--
+## GitHub
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+💻;Data+Analyst+%7C+BI+Specialist+📈;Top+10%25+Graduate+%7C+IIIT+RGUKT+🎓;Always+learning+new+tech+🚀">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<your-github-username>&layout=compact" alt="Top languages" />
 </p>
+-->
 
----
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/islampamidi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:islambasha5229@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚡ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=fff&style=for-the-badge"/>
-</p>
-
----
-
-### 🚀 Projects
-
-#### 📌 Portfolio Website
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="600" alt="Portfolio Website Screenshot"/>
-</p>
-🔗 [Live Demo](YOUR_PROJECT_LINK) | 💻 [Source Code](https://github.com/islambasha/Portfolio-website-)
-
----
-
-#### 📊 Adidas Sales Dashboard (Power BI)
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="600" alt="Adidas Dashboard"/>
-</p>
-🔗 [Project Report](YOUR_PROJECT_LINK)
-
----
-
-#### 🛒 BYhub E-commerce Website
-<p align="center">
-  <img src="YOUR_IMAGE_LINK" width="600" alt="BYhub E-commerce"/>
-</p>
-🔗 [Live Demo](YOUR_PROJECT_LINK) | 💻 [Source Code](YOUR_REPO_LINK)
-
----
-
-### 📌 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambasha&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
-
-### 🎓 Education
-🎓 **B.Tech in Electrical & Electronics Engineering (EEE)**  
-🏅 **CGPA 7.5 | Top 10%**  
-📍 IIIT RGUKT, RK Valley  
-
----
-
-### 🎓 Certifications
-- **Prompt Engineering** (Superhuman.ai)  
-- **Power BI, Tableau, Excel** (BE10X)  
----
-
-### 💡 Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
-</p>
-
----
-
-### 😂 Dev Jokes
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>
-</p>
-
----
-
-### 🖥️ Coding Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
-</p>
-
----
-
-### ✨ Fun Fact
-⚡ I believe **data + creativity = impact**.  
-When I’m not coding, you’ll find me exploring **tech trends, gaming, or creating dashboards**.  
-
-💭 Also, I’m just trying to end up with the **right regrets**.
-
----
-
-⭐ From [IslamBasha](https://github.com/islambasha)
+_Last updated: 2025-09-30_
